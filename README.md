@@ -1,0 +1,1 @@
+Identify image skin area
